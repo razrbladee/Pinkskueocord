@@ -5,7 +5,7 @@ A pink theme for Vencord/betterdiscord edited by me :P
  
 HOW TO USE :
 You start by installing SkeuoCord first! 
-Then you add this to your Themes Folder (vencord) 
+Then you add pinkskueocord.css to your Themes Folder (vencord) 
  This looks better with the light appearance turned on. ( make sure to turn off sync ) 
  - Thank you ⋆˙⟡♡
 
